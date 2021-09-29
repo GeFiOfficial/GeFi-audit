@@ -1,6 +1,4 @@
 # GeFi-audit
-
-Audit
 Ge.Finance Audit Reports
 
 Knownsec Audit Firm
